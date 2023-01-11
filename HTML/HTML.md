@@ -2,15 +2,16 @@
 <hr>
 <p>HTML (Hypertext Markup Language) is the markup language used to create web pages. It is a tag-based language that is used to give structure and format to the content of a web page. Each tag has a specific meaning and is used to define different elements of a web page, such as titles, paragraphs, images, links, and more.
 <br>
-Basic HTML concepts:
-<br>
-Tags: As mentioned earlier, HTML is made up of tags. Each tag has a specific meaning and is used to format the content of a page. Tags are always written between angle brackets < >.
-<br>
-Attributes: Many tags have attributes that are used to provide additional information about the element. For example, the <img> tag has a "src" attribute that is used to specify the path of the image. Attributes are always written within the tag, and have the format "name="value"".
-<br>
-Content: The content of a web page is written between the opening and closing tags of each element. For example, the content of a paragraph is written between the <p> and </p> tags.
-<br>
-Basic structure of an HTML document: All HTML documents must have a basic structure that consists of three main sections: the header section, the body section, and the footer section.</p>
+<h6>Basic HTML concepts:</h6>
+<ul>
+<li>Tags: As mentioned earlier, HTML is made up of tags. Each tag has a specific meaning and is used to format the content of a page. Tags are always written between angle brackets < >.</li>
+
+<li>Attributes: Many tags have attributes that are used to provide additional information about the element. For example, the ```<img>``` tag has a "src" attribute that is used to specify the path of the image. Attributes are always written within the tag, and have the format "name="value"".</li>
+
+<li>Content: The content of a web page is written between the opening and closing tags of each element. For example, the content of a paragraph is written between the ```<p>``` and ```</p>``` tags.</li>
+
+<li>Basic structure of an HTML document: All HTML documents must have a basic structure that consists of three main sections: the header section, the body section, and the footer section.</li></p>
+</ul>
 
 ```html
 <!DOCTYPE html>
