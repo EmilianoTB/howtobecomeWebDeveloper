@@ -1,0 +1,30 @@
+<h1>Introduction to HTML:</h1>
+<hr>
+<p>HTML (Hypertext Markup Language) is the markup language used to create web pages. It is a tag-based language that is used to give structure and format to the content of a web page. Each tag has a specific meaning and is used to define different elements of a web page, such as titles, paragraphs, images, links, and more.
+<br>
+Basic HTML concepts:
+<br>
+Tags: As mentioned earlier, HTML is made up of tags. Each tag has a specific meaning and is used to format the content of a page. Tags are always written between angle brackets < >.
+<br>
+Attributes: Many tags have attributes that are used to provide additional information about the element. For example, the <img> tag has a "src" attribute that is used to specify the path of the image. Attributes are always written within the tag, and have the format "name="value"".
+<br>
+Content: The content of a web page is written between the opening and closing tags of each element. For example, the content of a paragraph is written between the <p> and </p> tags.
+<br>
+Basic structure of an HTML document: All HTML documents must have a basic structure that consists of three main sections: the header section, the body section, and the footer section.</p>
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Page Title</title>
+</head>
+<body>
+  <!-- Page Content -->
+</body>
+</html>
+```
+
+
+<p>This is the basic code of an HTML document, which can be further complemented with various tags and styles to generate a web page with different content.
+<br>
+It is important to mention that this is just a basic introduction to HTML, and there are many more details and functionalities that can be learned to create more complex websites.</p>
