@@ -6,9 +6,9 @@
 <ul>
 <li>Tags: As mentioned earlier, HTML is made up of tags. Each tag has a specific meaning and is used to format the content of a page. Tags are always written between angle brackets < >.</li>
 
-<li>Attributes: Many tags have attributes that are used to provide additional information about the element. For example, the ```<img>``` tag has a "src" attribute that is used to specify the path of the image. Attributes are always written within the tag, and have the format "name="value"".</li>
+<li>Attributes: Many tags have attributes that are used to provide additional information about the element. For example, the ```html<img>``` tag has a "src" attribute that is used to specify the path of the image. Attributes are always written within the tag, and have the format "name="value"".</li>
 
-<li>Content: The content of a web page is written between the opening and closing tags of each element. For example, the content of a paragraph is written between the ```<p>``` and ```</p>``` tags.</li>
+<li>Content: The content of a web page is written between the opening and closing tags of each element. For example, the content of a paragraph is written between the ```html<p>``` and ```html</p>``` tags.</li>
 
 <li>Basic structure of an HTML document: All HTML documents must have a basic structure that consists of three main sections: the header section, the body section, and the footer section.</li></p>
 </ul>
